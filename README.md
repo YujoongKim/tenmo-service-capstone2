@@ -3,7 +3,7 @@
 ## Introduction
 A console application which replicates Venmo. This application is an online payment service that allows a user to transfer "TE Bucks" between friends.
 
-##Users can: 
+## Users can: 
 * register and log in to  the system. 
 * check their account balance.
 * send TE Bucks to other users of their choice 
@@ -14,5 +14,5 @@ A console application which replicates Venmo. This application is an online paym
 * choice to approve or deny those requests
 * see a list of pending requests they sent but that other users have not responded to
 
-##Technologies Used:
+## Technologies Used:
 * Java, Spring Boot, RESTful API services, PostgreSQL, JDBCTemplate 
